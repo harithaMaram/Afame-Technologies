@@ -3,10 +3,10 @@ For Data Science Internship-2025
 # Movie Rating Prediction
 
 ## Overview
-This project predicts movie ratings based on features like genre, director, and actors using a dataset of Indian movies from IMDb. It involves data cleaning, exploratory data analysis (EDA), feature engineering, and machine learning to estimate user or critic ratings.
+This project predicts movie ratings based on features like genre, director, and actors using a dataset of Indian movies from IMDb provided by Afame Technologies. It involves data cleaning, exploratory data analysis (EDA), feature engineering, and machine learning to estimate user or critic ratings.
 
 ## Dataset
-- **Source**: The dataset, "Movie dataset new.csv," contains Indian movies from IMDb with columns: `Name`, `Year`, `Duration`, `Genre`, `Rating`, `Votes`, `Director`, `Actor 1`, `Actor 2`, `Actor 3`.
+- **Source**: The dataset, "Movie dataset.csv," contains Indian movies from IMDb with columns: `Name`, `Year`, `Duration`, `Genre`, `Rating`, `Votes`, `Director`, `Actor 1`, `Actor 2`, `Actor 3`.
 
 ## Project Structure
 1. **Data Cleaning**:
