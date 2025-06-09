@@ -38,7 +38,4 @@ This project predicts movie ratings based on features like genre, director, and 
 - `movie_rating_predictions.csv`: Model predictions on test set.
 - `requirements.txt`: Python dependencies for running the notebook.
 
-## Requirements
-To run the notebook, install the dependencies:
-```bash
-pip install -r requirements.txt
+
